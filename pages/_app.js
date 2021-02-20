@@ -1,4 +1,3 @@
-import '../styles/globals.css'
 import GoogleTagManager from '../components/GoogleTagManager'
 
 function MyApp({ Component, pageProps }) {
